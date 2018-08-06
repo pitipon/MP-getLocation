@@ -1,0 +1,16 @@
+<!--index.wxml-->
+
+
+<view> Get Location </view>
+-------------------------------
+<view> Latitude = {{userLocation.latitude}}</view>
+<view> Longitude  = {{userLocation.longitude}}</view>
+<view> Horizontal Accuracy = {{userLocation.horizontalAccuracy}}</view>
+<view> Vertical Accuracy = {{userLocation.verticalAccuracy}}</view>
+<view> Speed = {{userLocation.speed}}</view>
+<view> Altitude = {{userLocation.altitude}}</view>
+<view> Accuracy  = {{userLocation.accuracy }}</view>
+
+
+
+
